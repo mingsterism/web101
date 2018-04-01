@@ -8,9 +8,33 @@ p {
 	color: red;
 }
 
-.awesomeText {
-	font-size: 1rem;
+h1 {
+	font-size: 2rem;
+	color: lightskyblue;
 }
+.titleStyle {
+	color: purple;
+	font-size: 4rem;
+}
+#titleId {
+	color: yellow;
+}
+
+.awesomeText {
+	font-size: 5rem;
+	color: green;
+}
+#awesomeText {
+	font-size: 1rem;
+	color: blue;
+}
+.simpleText {
+	font-size: 2rem;
+}
+#simpleText {
+	color: yellow;
+}
+
 .profilePic {
 	height: 10rem;
 }
